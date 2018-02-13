@@ -1,0 +1,11 @@
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\MQTTpublisher\MQTTpublisher\bin\Debug\MQTTpublisher.exe.config
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\MQTTpublisher\MQTTpublisher\bin\Debug\MQTTpublisher.exe
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\MQTTpublisher\MQTTpublisher\bin\Debug\MQTTpublisher.pdb
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\MQTTpublisher\MQTTpublisher\bin\Debug\M2Mqtt.Net.dll
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\MQTTpublisher\MQTTpublisher\bin\Debug\M2Mqtt.Net.pdb
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\MQTTpublisher\MQTTpublisher\obj\Debug\MQTTpublisher.csprojResolveAssemblyReference.cache
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\MQTTpublisher\MQTTpublisher\obj\Debug\MQTTpublisher.exe
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\MQTTpublisher\MQTTpublisher\obj\Debug\MQTTpublisher.pdb
+C:\tmp\asd\MQTTpublisher\MQTTpublisher\bin\Debug\MQTTpublisher.exe.config
+C:\tmp\asd\MQTTpublisher\MQTTpublisher\obj\Debug\MQTTpublisher.exe
+C:\tmp\asd\MQTTpublisher\MQTTpublisher\obj\Debug\MQTTpublisher.pdb

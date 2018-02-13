@@ -1,0 +1,9 @@
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\TemperatureMqttPublisher\TemperatureMqttPublisher\bin\Debug\TemperatureMqttPublisher.exe.config
+C:\tmp\asd\TemperatureMqttPublisher\TemperatureMqttPublisher\bin\Debug\TemperatureMqttPublisher.exe.config
+C:\tmp\asd\TemperatureMqttPublisher\TemperatureMqttPublisher\bin\Debug\TemperatureMqttPublisher.exe
+C:\tmp\asd\TemperatureMqttPublisher\TemperatureMqttPublisher\bin\Debug\TemperatureMqttPublisher.pdb
+C:\tmp\asd\TemperatureMqttPublisher\TemperatureMqttPublisher\bin\Debug\M2Mqtt.Net.dll
+C:\tmp\asd\TemperatureMqttPublisher\TemperatureMqttPublisher\bin\Debug\M2Mqtt.Net.pdb
+C:\tmp\asd\TemperatureMqttPublisher\TemperatureMqttPublisher\obj\Debug\TemperatureMqttPublisher.csprojResolveAssemblyReference.cache
+C:\tmp\asd\TemperatureMqttPublisher\TemperatureMqttPublisher\obj\Debug\TemperatureMqttPublisher.exe
+C:\tmp\asd\TemperatureMqttPublisher\TemperatureMqttPublisher\obj\Debug\TemperatureMqttPublisher.pdb

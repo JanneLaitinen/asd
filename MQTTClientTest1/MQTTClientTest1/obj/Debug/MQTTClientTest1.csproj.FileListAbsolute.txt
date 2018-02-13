@@ -1,0 +1,19 @@
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\MQTTClientTest1\MQTTClientTest1\bin\Debug\MQTTClientTest1.exe.config
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\MQTTClientTest1\MQTTClientTest1\bin\Debug\MQTTClientTest1.exe
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\MQTTClientTest1\MQTTClientTest1\bin\Debug\MQTTClientTest1.pdb
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\MQTTClientTest1\MQTTClientTest1\bin\Debug\M2Mqtt.Net.dll
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\MQTTClientTest1\MQTTClientTest1\bin\Debug\M2Mqtt.Net.pdb
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\MQTTClientTest1\MQTTClientTest1\obj\Debug\MQTTClientTest1.csprojResolveAssemblyReference.cache
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\MQTTClientTest1\MQTTClientTest1\obj\Debug\MQTTClientTest1.exe
+Y:\Makela_Petteri\TITE16\Verkko-ohjelmointi\MQTTClientTest1\MQTTClientTest1\obj\Debug\MQTTClientTest1.pdb
+M:\2. Lukuvuosi\2018 Verkko-ohjelmointi\MQTTClientTest1\MQTTClientTest1\bin\Debug\MQTTClientTest1.exe.config
+M:\2. Lukuvuosi\2018 Verkko-ohjelmointi\MQTTClientTest1\MQTTClientTest1\obj\Debug\MQTTClientTest1.exe
+M:\2. Lukuvuosi\2018 Verkko-ohjelmointi\MQTTClientTest1\MQTTClientTest1\obj\Debug\MQTTClientTest1.pdb
+C:\tmp\asd\MQTTClientTest1\MQTTClientTest1\bin\Debug\MQTTClientTest1.exe.config
+C:\tmp\asd\MQTTClientTest1\MQTTClientTest1\obj\Debug\MQTTClientTest1.exe
+C:\tmp\asd\MQTTClientTest1\MQTTClientTest1\obj\Debug\MQTTClientTest1.pdb
+C:\tmp\asd\MQTTClientTest1\MQTTClientTest1\bin\Debug\MQTTClientTest1.exe
+C:\tmp\asd\MQTTClientTest1\MQTTClientTest1\bin\Debug\MQTTClientTest1.pdb
+C:\tmp\asd\MQTTClientTest1\MQTTClientTest1\bin\Debug\M2Mqtt.Net.dll
+C:\tmp\asd\MQTTClientTest1\MQTTClientTest1\bin\Debug\M2Mqtt.Net.pdb
+C:\tmp\asd\MQTTClientTest1\MQTTClientTest1\obj\Debug\MQTTClientTest1.csprojResolveAssemblyReference.cache
